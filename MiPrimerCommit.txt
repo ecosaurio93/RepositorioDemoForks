@@ -1,0 +1,4 @@
+Para realizar commit
+ se realiza el stage de los elementos a incluir en commit
+ se hace un comentario
+ se realiza commit
